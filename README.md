@@ -5,8 +5,8 @@ its very slow actualy, i dont know why, i think its some problem with the sdl2 w
 
 #controls
 arrows = move
-+ = zoom in
-- = zoom out
+plus = zoom in
+minus = zoom out
 # fractals are beautiful
 ![image](https://user-images.githubusercontent.com/100975643/216517655-b6b8af5e-a192-4e31-b12b-68f314f8be0d.png)
 ![image](https://user-images.githubusercontent.com/100975643/216517851-5fb9181d-fdac-4f91-a288-10ec9543effa.png)
